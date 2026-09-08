@@ -67,3 +67,17 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+# C++ build artifacts
+*.o
+*.obj
+*.exe
+*.pdb
+
+# Build folders
+/build/
+/Debug/
+/Release/
+
+# IDE metadata
+.vscode/
+.idea/
