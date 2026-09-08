@@ -1,1 +1,1 @@
-# DSA-Lab1 - GitHub version
+# DSA-Lab1 - Git Workflow Practice
